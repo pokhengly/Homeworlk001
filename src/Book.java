@@ -1,15 +1,18 @@
 public class Book {
 
+    // fields
     private int id;
     private String title;
     private Author author;
     private String yearPublished;
     private Status status;
 
+    // default constructor
     public Book() {
 
     }
 
+    // constructor
     public Book(int id, String title, Author author, String yearPublished, Status status) {
         this.id = id;
         this.title = title;
@@ -18,6 +21,7 @@ public class Book {
         this.status = status;
     }
 
+    // getters and setters
     public int getId() {
         return id;
     }
@@ -58,6 +62,7 @@ public class Book {
         this.status = status;
     }
 
+    // toString method
     @Override
     public String toString() {
         return "Book{" +

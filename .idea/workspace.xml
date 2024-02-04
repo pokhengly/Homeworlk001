@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5344506d-4065-4177-84f5-6c1a59a641f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Color.java" afterDir="false" />
+    <list default="true" id="5344506d-4065-4177-84f5-6c1a59a641f9" name="Changes" comment="Done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworlk001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworlk001.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Status.java" afterDir="false" />
@@ -100,11 +99,24 @@
       <workItem from="1706887095251" duration="5437000" />
       <workItem from="1706949261110" duration="24773000" />
       <workItem from="1707027048233" duration="133000" />
-      <workItem from="1707027622253" duration="8149000" />
+      <workItem from="1707027622253" duration="9741000" />
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <option name="closed" value="true" />
+      <created>1707035862562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707035862563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>

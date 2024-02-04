@@ -1,14 +1,16 @@
 class Author {
 
+    // TODO: Add the instance variables
     private String name;
     private String yearActive;
 
-
+    // TODO: Add the constructor
     public Author(String name, String yearActive) {
         this.name = name;
         this.yearActive = yearActive;
     }
 
+    // TODO: Add the getters and setters
     public String getName() {
         return name;
     }
@@ -25,6 +27,7 @@ class Author {
         this.yearActive = yearActive;
     }
 
+    // TODO: Add the toString method
     @Override
     public String toString() {
         return "Author{" +
